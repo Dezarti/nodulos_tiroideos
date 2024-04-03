@@ -1,4 +1,4 @@
-# Ignora el entorno virtual
+# Ignora el entorno virtual, asegurate que tenga el mismo nombre
 \venv
 
 # Ignora las bases de datos
