@@ -1,0 +1,173 @@
+Numero paciente,TIRADS,Segmentacion,Numero,Edad,Sexo,Composicion,Ecogenicidad,Margenes,Calcificaciones
+1_1,5,YES,1,,,,,,
+1_2,5,YES,1,,,,,,
+2_1,4,YES,2,49.0,F,solid,hyperechogenicity,well defined,non
+3_1,4,YES,3,31.0,F,spongiform,isoechogenicity,well defined,microcalcifications
+4_1,3,YES,4,37.0,F,spongiform,isoechogenicity,well defined,microcalcifications
+5_1,5,YES,5,47.0,F,solid,hypoechogenicity,ill defined,microcalcifications
+6_1,3,YES,6,60.0,M,spongiform,isoechogenicity,ill defined,microcalcifications
+7_1,3,YES,7,62.0,F,spongiform,isoechogenicity,well defined,microcalcifications
+8_1,4,YES,8,55.0,F,dense,hypoechogenicity,well defined,non
+9_1,2,YES,9,41.0,F,predominantly solid,hyperechogenicity,well defined,non
+10_1,5,YES,10,74.0,F,solid,hyperechogenicity,spiculated,microcalcifications
+11_1,5,YES,11,30.0,F,solid,marked hypoechogenicity,spiculated,microcalcifications
+12_1,3,YES,12,45.0,F,predominantly solid,isoechogenicity,well defined,microcalcifications
+13_1,2,YES,13,29.0,F,spongiform,isoechogenicity,well defined,microcalcifications
+14_1,5,YES,14,42.0,F,solid,hyperechogenicity,microlobulated,non
+15_1,4,YES,15,38.0,F,predominantly solid,isoechogenicity,microlobulated,microcalcifications
+16_1,3,YES,16,67.0,F,spongiform,isoechogenicity,well defined,non
+17_1,5,YES,17,40.0,F,solid,hypoechogenicity,well defined,microcalcifications
+18_1,3,YES,18,77.0,F,solid,hypoechogenicity,well defined,non
+19_1,5,YES,19,56.0,F,solid,marked hypoechogenicity,well defined,macrocalcifications
+20_1,4,YES,20,63.0,M,solid,hypoechogenicity,microlobulated,non
+21_1,3,YES,21,74.0,F,solid,hyperechogenicity,well defined,microcalcifications
+22_1,4,YES,22,33.0,F,solid,hyperechogenicity,well defined,non
+23_1,4,YES,23,31.0,F,solid,hyperechogenicity,well defined,non
+24_1,5,YES,24,63.0,F,solid,hyperechogenicity,well defined,microcalcifications
+25_1,3,YES,25,22.0,F,solid,hyperechogenicity,well defined,non
+26_1,4,YES,26,52.0,F,solid,hypoechogenicity,well defined,microcalcifications
+27_1,3,YES,27,68.0,F,solid,hypoechogenicity,well defined,microcalcifications
+28_1,5,YES,28,65.0,F,spongiform,isoechogenicity,well defined,microcalcifications
+29_1,5,YES,29,33.0,F,solid,marked hypoechogenicity,ill defined,microcalcifications
+30_1,5,YES,30,50.0,F,solid,marked hypoechogenicity,ill defined,microcalcifications
+31_1,3,YES,31,42.0,F,solid,hyperechogenicity,well defined,non
+32_1,3,YES,32,42.0,F,solid,hyperechogenicity,well defined,non
+33_1,2,YES,33,79.0,F,spongiform,isoechogenicity,well defined,microcalcifications
+34_1,5,YES,34,46.0,F,solid,hypoechogenicity,spiculated,microcalcifications
+35_1,4,YES,35,55.0,F,solid,hypoechogenicity,well defined,microcalcifications
+36_1,5,YES,36,54.0,F,dense,hypoechogenicity,spiculated,microcalcifications
+38_1,3,YES,38,33.0,F,spongiform,hypoechogenicity,well defined,microcalcifications
+39_1,3,YES,39,57.0,F,cystic,isoechogenicity,well defined,microcalcifications
+40_1,5,YES,40,57.0,F,solid,isoechogenicity,ill defined,macrocalcifications
+41_1,4,YES,41,78.0,F,solid,hypoechogenicity,well defined,microcalcifications
+42_1,4,YES,42,55.0,F,solid,isoechogenicity,well defined,macrocalcifications
+43_1,4,YES,43,35.0,F,dense,hypoechogenicity,well defined,microcalcifications
+44_1,2,YES,44,53.0,F,spongiform,isoechogenicity,well defined,microcalcifications
+45_1,4,YES,45,74.0,F,solid,hypoechogenicity,well defined,macrocalcifications
+46_1,5,YES,46,56.0,F,dense,hypoechogenicity,spiculated,microcalcifications
+47_1,4,YES,47,91.0,F,solid,hypoechogenicity,well defined,non
+48_1,5,YES,48,63.0,F,solid,isoechogenicity,,microcalcifications
+49_1,1,YES,49,58.0,F,predominantly cystic,hypoechogenicity,well defined,microcalcifications
+50_1,3,YES,50,62.0,F,predominantly solid,hyperechogenicity,well defined,microcalcifications
+51_1,4,YES,51,48.0,F,solid,hyperechogenicity,well defined,non
+52_1,3,YES,52,45.0,M,solid,hyperechogenicity,well defined,microcalcifications
+53_1,3,YES,53,61.0,F,dense,hypoechogenicity,ill defined,microcalcifications
+54_1,4,YES,54,73.0,F,dense,hypoechogenicity,well defined,microcalcifications
+55_1,3,YES,55,52.0,F,solid,hypoechogenicity,ill defined,microcalcifications
+56_1,4,YES,56,67.0,F,predominantly solid,hypoechogenicity,spiculated,microcalcifications
+57_1,3,YES,57,75.0,F,spongiform,hypoechogenicity,well defined,macrocalcifications
+58_1,3,YES,58,,,,,,
+58_2,3,YES,58,,,,,,
+59_1,4,YES,59,76.0,F,,,,
+60_1,4,YES,60,,,,,,
+61_1,3,YES,61,51.0,F,solid,hyperechogenicity,well defined,non
+62_1,4,YES,62,,,,,,
+62_2,4,YES,62,,,,,,
+62_3,4,YES,62,,,,,,
+63_1,5,YES,63,,,,,,
+64_1,5,YES,64,,,,,,
+64_2,5,YES,64,,,,,,
+64_3,5,YES,64,,,,,,
+65_1,5,YES,65,58.0,F,predominantly solid,isoechogenicity,well defined,macrocalcifications
+65_2,5,YES,65,58.0,F,predominantly solid,isoechogenicity,well defined,macrocalcifications
+66_1,5,YES,66,60.0,F,solid,marked hypoechogenicity,well defined,non
+67_1,4,YES,67,59.0,F,solid,marked hypoechogenicity,well defined,non
+68_1,5,YES,68,48.0,F,predominantly solid,isoechogenicity,ill defined,macrocalcifications
+69_1,2,YES,69,,,,,,
+69_2,2,YES,69,,,,,,
+69_3,2,YES,69,,,,,,
+70_1,1,YES,70,68.0,F,predominantly solid,isoechogenicity,ill defined,non
+71_1,4,YES,71,,,,,,
+72_1,5,YES,72,,,,,,
+73_1,3,YES,73,62.0,u,solid,isoechogenicity,well defined,microcalcifications
+74_1,4,YES,74,57.0,F,solid,hypoechogenicity,ill defined,microcalcifications
+75_1,3,YES,75,,,,,,
+75_2,3,YES,75,,,,,,
+76_1,3,YES,76,20.0,M,predominantly solid,isoechogenicity,well defined,microcalcifications
+77_1,4,YES,77,,,,,,
+78_1,2,YES,78,53.0,F,predominantly cystic,isoechogenicity,well defined,microcalcifications
+79_1,4,YES,79,50.0,F,solid,hypoechogenicity,spiculated,non
+80_1,5,YES,80,60.0,M,solid,marked hypoechogenicity,macrolobulated,macrocalcifications
+80_2,,YES,80,60.0,M,solid,marked hypoechogenicity,macrolobulated,macrocalcifications
+81_1,4,YES,81,48.0,F,solid,hypoechogenicity,spiculated,microcalcifications
+81_2,4,YES,81,48.0,F,solid,hypoechogenicity,spiculated,microcalcifications
+82_1,3,YES,82,56.0,F,spongiform,isoechogenicity,well defined,microcalcifications
+83_1,3,YES,83,53.0,F,spongiform,isoechogenicity,well defined,microcalcifications
+84_1,3,YES,84,,,,,,
+85_1,5,YES,85,30.0,F,solid,marked hypoechogenicity,ill defined,non
+85_2,5,YES,85,30.0,F,solid,marked hypoechogenicity,ill defined,non
+86_1,2,YES,86,28.0,F,predominantly cystic,isoechogenicity,well defined,non
+87_1,4,YES,87,,,,,,
+88_1,1,YES,88,56.0,M,predominantly cystic,isoechogenicity,well defined,microcalcifications
+88_2,1,YES,88,56.0,M,predominantly cystic,isoechogenicity,well defined,microcalcifications
+89_1,3,YES,89,63.0,F,solid,isoechogenicity,well defined,microcalcifications
+90_1,4,YES,90,58.0,F,predominantly solid,isoechogenicity,well defined,non
+90_2,4,YES,90,58.0,F,predominantly solid,isoechogenicity,well defined,non
+91_1,3,YES,91,34.0,F,solid,hypoechogenicity,well defined,microcalcifications
+92_1,4,YES,92,,,,,,
+92_2,4,YES,92,,,,,,
+92_3,4,YES,92,,,,,,
+92_4,4,YES,92,,,,,,
+93_1,3,YES,93,70.0,F,solid,hyperechogenicity,well defined,microcalcifications
+93_2,3,YES,93,70.0,F,solid,hyperechogenicity,well defined,microcalcifications
+94_1,3,YES,94,74.0,u,solid,isoechogenicity,well defined,non
+95_1,3,YES,95,41.0,u,solid,isoechogenicity,well defined,microcalcifications
+96_1,2,YES,96,,,,,,
+96_2,2,YES,96,,,,,,
+97_1,4,YES,97,77.0,M,,,,
+97_2,4,YES,97,77.0,M,,,,
+98_1,3,YES,98,62.0,F,solid,hyperechogenicity,well defined,non
+99_1,3,YES,99,,,,,,
+99_2,3,YES,99,,,,,,
+100_1,3,YES,100,39.0,F,predominantly solid,isoechogenicity,well defined,macrocalcifications
+101_1,5,YES,101,40.0,M,solid,hypoechogenicity,well defined,microcalcifications
+102_1,3,YES,102,28.0,F,solid,isoechogenicity,well defined,microcalcifications
+103_1,2,YES,103,60.0,F,spongiform,isoechogenicity,well defined,microcalcifications
+104_1,5,YES,104,,,,,,
+105_1,3,YES,105,82.0,F,solid,hyperechogenicity,well defined,non
+106_1,5,YES,106,,,,,,
+107_1,4,YES,107,41.0,F,spongiform,isoechogenicity,well defined,microcalcifications
+108_1,4,YES,108,73.0,F,predominantly cystic,isoechogenicity,well defined,microcalcifications
+109_1,4,YES,109,50.0,F,predominantly cystic,hypoechogenicity,well defined,microcalcifications
+110_1,4,YES,110,56.0,F,predominantly solid,hyperechogenicity,well defined,microcalcifications
+111_1,3,YES,111,34.0,u,spongiform,isoechogenicity,well defined,microcalcifications
+112_1,4,YES,112,36.0,F,solid,hypoechogenicity,ill defined,microcalcifications
+113_1,3,YES,113,27.0,u,spongiform,isoechogenicity,well defined,non
+114_1,5,YES,114,,,,,,
+115_1,5,YES,115,76.0,F,solid,hypoechogenicity,well defined,microcalcifications
+116_1,4,YES,116,,,,,,
+117_1,5,YES,117,,,,,,
+118_1,4,YES,118,64.0,F,solid,isoechogenicity,microlobulated,microcalcifications
+119_1,3,YES,119,60.0,F,spongiform,isoechogenicity,well defined,microcalcifications
+121_1,4,YES,121,77.0,F,solid,hyperechogenicity,macrolobulated,microcalcifications
+122_1,4,YES,122,80.0,F,solid,isoechogenicity,well defined,microcalcifications
+122_2,3,YES,122,80.0,F,solid,isoechogenicity,well defined,microcalcifications
+123_1,3,YES,123,47.0,F,solid,hyperechogenicity,ill defined,microcalcifications
+124_1,4,YES,124,,,,,,
+125_1,4,YES,125,44.0,M,solid,hypoechogenicity,well defined,macrocalcifications
+126_1,3,YES,126,49.0,F,solid,isoechogenicity,microlobulated,microcalcifications
+127_1,3,YES,127,67.0,F,solid,hyperechogenicity,ill defined,microcalcifications
+128_1,3,YES,128,73.0,F,solid,hyperechogenicity,ill defined,microcalcifications
+129_1,3,YES,129,49.0,F,predominantly solid,isoechogenicity,well defined,microcalcifications
+129_2,4,YES,129,49.0,F,predominantly solid,isoechogenicity,well defined,microcalcifications
+130_1,3,YES,130,44.0,F,,,well defined smooth,non
+131_1,3,YES,131,49.0,F,solid,isoechogenicity,well defined,non
+132_1,5,YES,132,,,,,,
+133_1,4,YES,133,,,,,,
+134_1,3,YES,134,57.0,F,solid,hyperechogenicity,well defined,non
+135_1,5,YES,135,51.0,F,solid,marked hypoechogenicity,well defined,non
+136_1,3,YES,136,,,,,,
+137_1,4,YES,137,67.0,u,solid,isoechogenicity,well defined,macrocalcifications
+138_1,3,YES,138,,,,,,
+139_1,3,YES,139,,,,,,
+139_2,3,YES,139,,,,,,
+140_1,5,YES,140,58.0,u,solid,marked hypoechogenicity,well defined,macrocalcifications
+141_1,3,YES,141,47.0,u,predominantly solid,hypoechogenicity,well defined,microcalcifications
+142_1,5,YES,142,52.0,F,solid,marked hypoechogenicity,macrolobulated,microcalcifications
+144_1,4,YES,144,30.0,F,predominantly cystic,isoechogenicity,well defined,microcalcifications
+145_1,3,YES,145,,F,,,,
+146_1,3,YES,146,,,,,,
+147_1,5,YES,147,,,,,,
+148_1,4,YES,148,37.0,F,solid,hypoechogenicity,well defined,non
+149_1,5,YES,149,78.0,M,,,,
+150_1,3,YES,150,,,,,,
