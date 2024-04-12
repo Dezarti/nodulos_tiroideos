@@ -1,4 +1,4 @@
-# **Desarrollo de un Modelo Abierto de Redes Neuronales Convolucionales para el Diagnóstico y Segmentación de Nódulos Tiroideos según la ARC-TIRADS Mediante Transferencia de Aprendizaje**
+# **Red neuronal convolucional para el diagnóstico de nódulos tiroideos según la clasificación ARC-TIRADS**
 
 ## Por Alejandro Martínez Hernández
 
@@ -7,4 +7,6 @@ Universidad de Antioquía
 Medellín 
 2024
 
-En el proyecto propuesto, se desarrollará de un modelo abierto de redes neuronales convolucionales para el diagnóstico y segmentación de nódulos tiroideos. Se dispondrá de la base de datos abierta de imágenes ecográficas de tiroides enriquecida con anotaciones clínicas (segunda versión del 2023), proporcionada por el grupo de investigación Computer Imaging and Medical Applications Laboratory (CIM@LAB) de la Universidad Nacional de Colombia y el Instituto de Diagnóstico Médico (IDIME). Se empleará la técnica de transferencia de aprendizaje con modelos avanzados como MobileNetV3 y U-NET. Se evaluará si la fusión de múltiples modelos mejora la precisión del diagnóstico.
+Este estudio presenta una red neuronal convolucional de código abierto para el diagnóstico de nódulos tiroideos siguiendo la clasificación ARC-TIRADS, empleando transferencia de aprendizaje con modelos avanzados como MobileNetV3 y U-NET, enfocándose en alcanzar una alta precisión diagnóstica y en asegurar que la solución sea accesible y aplicable en un amplio espectro de entornos clínicos, incluidos aquellos con limitaciones tecnológicas. 
+
+Se dispuso de una base de datos abierta de imágenes ecográficas de tiroides enriquecida con anotaciones clínicas (DDTI versión 2023), proporcionada por el grupo de investigación Computer Imaging and Medical Applications Laboratory (CIM@LAB) de la Universidad Nacional de Colombia y el Instituto de Diagnóstico Médico (IDIME). 
