@@ -3,3 +3,6 @@
 
 # Ignora las bases de datos
 \db_unal
+
+# Ignorar notebook de figuras
+6_graficas_paper.ipynb
